@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I am Khushi, a computer science final year student.
+
+I'm currently building projects in Machine Learning.
+
+I am passionate about learning how things works.
+
+I'm currently working on a major project titled forest fire prediction and early warning system in Uttarakhand.
+
+###⚡ Fun fact:
+
+- I like sketching.
+
 <!--
 **khushi942/khushi942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
