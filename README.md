@@ -8,7 +8,7 @@ I am passionate about learning how things works.
 
 I'm currently working on a major project titled forest fire prediction and early warning system in Uttarakhand.
 
-###⚡ Fun fact:
+### ⚡ Fun fact:
 
 - I like sketching.
 
